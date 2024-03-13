@@ -39,10 +39,6 @@ BA_PredictingModel Jupyter Notebokk contains a predictive model built to predict
 
 Feature importance scores were calculated to identify and eliminate unwanted features, simplifying the model while maintaining predictive performance.
 
-### Conclusion:
-
-This predictive model can be valuable for British Airways in predicting booking status and optimizing resource allocation and customer service based on predicted outcomes.
-
 ### Usage:
 
 1. Clone this repository to your local machine.
@@ -50,3 +46,7 @@ This predictive model can be valuable for British Airways in predicting booking 
 3. Run the provided Jupyter Notebook or Python script to train and evaluate the model.
 4. Adjust parameters and features as needed for further optimization.
 5. Use the trained model to make predictions on new data.
+
+### Conclusion:
+
+This predictive model can be valuable for British Airways in predicting booking status and optimizing resource allocation and customer service based on predicted outcomes.
